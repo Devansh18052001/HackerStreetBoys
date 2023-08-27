@@ -4,8 +4,8 @@ Mined Dataset 22 Health Care
 Introduction:
 In this project we have created a python program which converts real time voice to text and some NLP models are used on the text for pre-processing.
 
-Prerequisites & Installations:
-\*\*All the installations should be done on terminal and in the given sequence.
+**Prerequisites & Installations:**
+All the installations should be done on terminal and in the given sequence.
 
 1. speech_recognition
    -pip install speech_recognition
